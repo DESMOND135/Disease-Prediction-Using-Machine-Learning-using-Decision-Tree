@@ -1,1 +1,1 @@
-# Disease-Prediction-Using-Machine-Learning-using-Decision-Tree
+# Disease-Prediction-using-Decision-Tree
